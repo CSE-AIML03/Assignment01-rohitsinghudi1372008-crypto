@@ -15,7 +15,7 @@
 }
 
 .nav-logo {
-    height: 50px;
+    height: 80px;
     width: 100px;
     color: white;
 }
@@ -23,8 +23,8 @@
 
 .logo {
   background-image:url(logo.png);
-    height: 50px;
-    width: 100%;
+    height: 70px;
+    width: 100px;
     background-size: cover;
     display: flex;
 }
